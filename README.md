@@ -1,9 +1,10 @@
+<!--
 ### Hi there 👋
 👯 I’m looking to collaborate on:
 1. Multi-robot coordination
 2. Multi-agent coverage
 3. Drone simulation in Issacsim
-<!--
+
 **ajifoster3/ajifoster3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
