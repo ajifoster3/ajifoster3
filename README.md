@@ -1,4 +1,4 @@
-<h1 align="center">Welcome! 👋</h1>
+#Welcome! 👋
 Hey there, <br />
 I'm Ash a PhD student of Robotics at the University of Plymouth. My research focus is coordination in multi-robot teams for offshore wind inspection.
 
