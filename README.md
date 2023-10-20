@@ -1,9 +1,10 @@
 # Welcome! 👋
 Hey there, <br />
 I'm Ash a PhD student of Robotics at the University of Plymouth. <br />
-My research focus is coordination in multi-robot teams for offshore wind inspection.
+My research focus is coordination in multi-robot teams for offshore wind inspection. <br />
+I'm open for collaboration on developing coverage apporaches for unstructured environments.
 
-- 📫 How to reach me **ajifoster3@gmail.com**
+📫 You can reach me at **ashley.foster@postgrad.plymouth.ac.uk**
 
 
 
