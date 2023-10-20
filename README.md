@@ -1,13 +1,7 @@
-Generate Successfully
-Awesome Github Readme Generator
-
-Awesome Github Profile README.md Generator
-Star This Repository
-Fork This Repository
 <h1 align="center">Welcome 👋, I'm Ash</h1>
 - 🔭 I’m currently working on **Multi-robot UAV coverage**
-- 👯 I’m looking to collaborate on **Multi-Robot coordination**
-- 🌱 I’m currently learning **NVidia IssacSim**
+-  👯 I’m looking to collaborate on **Multi-Robot coordination**
+-  🌱 I’m currently learning **NVidia IssacSim**
 
 - 📫 How to reach me **ajifoster3@gmail.com**
 
