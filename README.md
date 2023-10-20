@@ -1,8 +1,6 @@
-<h1 align="center">Welcome 👋, I'm Ash</h1>
-
-* 🔭 I’m currently working on **Multi-robot UAV coverage**
-* 👯 I’m looking to collaborate on **Multi-Robot coordination**
-* 🌱 I’m currently learning **NVidia IssacSim**
+<h1 align="center">Welcome! 👋</h1>
+Hi, 
+I'm Ash a PhD student of Robotics at the University of Plymouth. 
 
 - 📫 How to reach me **ajifoster3@gmail.com**
 
