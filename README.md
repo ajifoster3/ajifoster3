@@ -1,6 +1,6 @@
 <h1 align="center">Welcome! 👋</h1>
-Hi, <br />
-I'm Ash a PhD student of Robotics at the University of Plymouth. 
+Hey there, <br />
+I'm Ash a PhD student of Robotics at the University of Plymouth. My research focus is coordination in multi-robot teams for offshore wind inspection.
 
 - 📫 How to reach me **ajifoster3@gmail.com**
 
