@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 👋, I'm Ash</h1>
 - 🔭 I’m currently working on **Multi-robot UAV coverage**
--  👯 I’m looking to collaborate on **Multi-Robot coordination**
--  🌱 I’m currently learning **NVidia IssacSim**
+- 👯 I’m looking to collaborate on **Multi-Robot coordination**
+- 🌱 I’m currently learning **NVidia IssacSim**
 
 - 📫 How to reach me **ajifoster3@gmail.com**
 
@@ -43,28 +43,3 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajifoster3&layout=compact&theme=dark" alt=ajifoster3 />
 
-Support
-Are you using the tool and happy with it to create your GitHub Repository?
-Please Don't Forget to Star This Repository
-FlowBite LogoGithub Readme Generator
-Resources
-
-    Github Readme Generator
-    Source Code
-
-Follow us
-
-    Github
-    Linkedin
-
-Legal
-
-    Privacy Policy
-    Terms & Conditions
-
-© 2023 . All Rights Reserved.Made ❤️ by Sashen Jayathilaka
-Facebook page
-Instagram page
-Twitter page
-GitHub account
-Dribbble account
