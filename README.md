@@ -38,6 +38,8 @@ I'm open for collaboration on developing coverage apporaches for unstructured en
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajifoster3&layout=compact&theme=dark" alt=ajifoster3 />
 
+<br />
+
 <div> 
 <a href="https://www.linkedin.com/in/ashleyfosterplym" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/ajifoster3" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
