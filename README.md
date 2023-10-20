@@ -1,5 +1,5 @@
 <h1 align="center">Welcome! 👋</h1>
-Hi,  
+Hi, <br />
 I'm Ash a PhD student of Robotics at the University of Plymouth. 
 
 - 📫 How to reach me **ajifoster3@gmail.com**
