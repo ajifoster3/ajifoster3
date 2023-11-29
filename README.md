@@ -32,5 +32,5 @@ I'm open for collaboration on developing coverage apporaches for unstructured en
 <div> 
 <a href="https://www.linkedin.com/in/ashleyfosterplym" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/ajifoster3" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "https://stackoverflow.com/users/5462736/ajifoster3"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" target="_blank"></a>
+<a href = "https://robotics.stackexchange.com/users/37427/ajifoster3"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" target="_blank"></a>
 </div>
